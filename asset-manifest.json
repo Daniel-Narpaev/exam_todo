@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exam_todo/static/css/main.0be25aee.css",
+    "main.js": "/exam_todo/static/js/main.599408b8.js",
+    "index.html": "/exam_todo/index.html",
+    "main.0be25aee.css.map": "/exam_todo/static/css/main.0be25aee.css.map",
+    "main.599408b8.js.map": "/exam_todo/static/js/main.599408b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be25aee.css",
+    "static/js/main.599408b8.js"
+  ]
+}
